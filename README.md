@@ -29,7 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -168,6 +168,7 @@ He inspired millions through his achievements, leadership, and motivational thou
 
 </body>
 </html>
+```
 
 # OUTPUT:
 
